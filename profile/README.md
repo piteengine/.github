@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piteengine/pite/main/assets/logo-light.svg" width="128" alt="Pite logo" />
+  <img src="https://raw.githubusercontent.com/piteengine/pite/main/assets/logo.svg" width="128" alt="Pite logo" />
 </p>
 
 <h3 align="center">Pite</h3>
