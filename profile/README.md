@@ -1,21 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piteengine/pite/main/assets/logo.svg" width="128" alt="Pite logo" />
-</p>
+<img src="https://raw.githubusercontent.com/piteengine/pite/main/assets/logo.svg" width="128" alt="Pite logo" />
 
-<h3 align="center">Pite</h3>
+# Pite
 
-<p align="center">A game engine inspired by Godot, written in Rust — scene tree, first-class GUI editor, Python scripting.</p>
+Pite: accessible, handy game engine
 
-**What it is:** Godot-hearted, Rust-bodied, Python-tongued. Compose games from nodes, not entities and systems. Text scenes you can diff, scripts that can't crash the engine, one milestone per commit.
+Rust core + visual editor + Python scripting, all together.
 
-**Flagship:** [`piteengine/pite`](https://github.com/piteengine/pite) — the engine (Rust workspace + embedded Python 3.12).
+Build games from scenes and nodes (not ECS) - edit visually, script in Python.
 
-```sh
-cargo run -p pite-cli -- new hello --template minimal-2d
-cargo run -p pite-cli -- run
-cargo run -p pite-cli -- edit
-```
-
-**Status:** playable 2D loop today — move → signal → damage → label → sound — plus desktop export. See the [changelog](https://github.com/piteengine/pite/blob/main/CHANGELOG.md).
-
-Dual-licensed MIT + Apache-2.0. New here? Start with the [quickstart](https://github.com/piteengine/pite#quickstart).
+Start here: [piteengine/pite](https://github.com/piteengine/pite). Contributions welcome - issues, PRs, and discussions are all open.
